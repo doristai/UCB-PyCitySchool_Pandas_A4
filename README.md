@@ -68,4 +68,22 @@ Excluding the missing 9th grader's math and reading scores only resulted in a sl
 
 ### Effect on Replacing 9th grade score
 
-Math and reading scores by grades only changed slightly by removing the partial 9th grade scores and Thomas high school still places as 2nd in the district. Score by school spending have increased from $638.00 to $888.53. Total students changed from 1635 to 1174 which its school size still falls in the medium criteria (1000-2000). Score 
+Math and reading scores by grades only changed slightly by removing the partial 9th grade scores and Thomas high school still places as 2nd in the district. Score by school spending have increased from $638.00 to $888.53. Total students changed from 1635 to 1174 which its school size still falls in the medium criteria (1000-2000).  
+
+- Score by size before 
+Screenshot 2021-04-11 at 11.15.46 PM![image](https://user-images.githubusercontent.com/70616488/114348799-e1398e80-9b1b-11eb-8db7-3fe046e96330.png)
+
+- Score by size after 
+Screenshot 2021-04-11 at 11.14.31 PM![image](https://user-images.githubusercontent.com/70616488/114348706-bd764880-9b1b-11eb-9515-b812b6cd5285.png)
+
+- Score by School Type Before
+Screenshot 2021-04-11 at 11.11.12 PM![image](https://user-images.githubusercontent.com/70616488/114348854-f6162200-9b1b-11eb-9bb2-9cc252bebe15.png)
+
+- Score by School Type After 
+Screenshot 2021-04-11 at 11.16.58 PM![image](https://user-images.githubusercontent.com/70616488/114348919-0fb76980-9b1c-11eb-8d09-25f9e6ca5034.png)
+
+No change with score by school type and by size.
+
+## Summary
+
+The four changes are the overall passing rate, math passing rate, reading passing rate and student spending. There are no big changes for any of the passing rates but a great increase in the student spending (approximately $200). Overall, Thomas High School is still ranked as 2nd place among all other high schools.
